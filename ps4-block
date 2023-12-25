@@ -4,7 +4,7 @@
 # to disable any update from ps4. I'm just creating GitHub Raw Hosts data so everyone can use
 # This work is by depressive_monk, please give all the credit to him
 # https://www.reddit.com/user/depressive_monk/
-# Date: 26 May 2021
+# Date: 25 Dec 2023
 # 
 # ===============================================================
 0.0.0.0	dau01.ps4.update.playstation.net
@@ -64,3 +64,11 @@
 0.0.0.0	themis.dl.playstation.net
 0.0.0.0	tmdb.np.dl.playstation.net
 0.0.0.0	t-prof.np.community.playstation.net
+0.0.0.0 ps4-system.sec.np.dl.playstation.net
+0.0.0.0 event.api.np.km.playstation.net
+0.0.0.0 ps4updptl.uk.np.community.playstation.net
+0.0.0.0 static-resource.np.community.playstation.net
+0.0.0.0 csla.np.community.playstation.net
+0.0.0.0 us.np.stun.playstation.net
+0.0.0.0 fswitch.dl.playstation.net
+0.0.0.0 rnps-crl.dl.playstation.net
